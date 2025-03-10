@@ -1,9 +1,6 @@
 ![Black and Beige Modern Handwriting Professional Business LinkedIn Banner](https://github.com/user-attachments/assets/14512e2d-34cf-41bd-a80d-5e9e464063a9)
-### Hello!! 👋 I'm [Kasturi Bag]  
+### Hello!! 👋 I'm Kasturi Bag  
 A Software and Graphic Enthusiast  
-
----  
-![Banner](https://raw.githubusercontent.com/your-KasturiBag21/Kasturibag21/main/Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png)
 
 
 ### 📫 Reach me at:  
