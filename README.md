@@ -23,6 +23,10 @@ A Software and Graphic Enthusiast
   <img src="https://img.icons8.com/color/48/000000/autocad.png"/>
 </p>
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KasturiBag21&theme=dark)
+
+
 
 ### 🔥 Fun Fact  
 > "Every expert was once a beginner. Keep coding and growing!"  
