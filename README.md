@@ -13,20 +13,17 @@ A Software and Graphic Enthusiast
 ---  
 ### 🚀 Languages and Tools:  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Plus"/>
-  <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/autocad.png"/>
 </p>
 
----  
-### 📊 GitHub Stats:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasturiBag21&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasturiBag21&layout=compact&theme=dark)  
 
----  
 ### 🔥 Fun Fact  
 > "Every expert was once a beginner. Keep coding and growing!"  
 
